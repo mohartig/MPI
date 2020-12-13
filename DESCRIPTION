@@ -1,0 +1,14 @@
+Package: MPI
+Title: Multidimensional Poverty Index
+Version: 1.0.0
+Authors@R: 
+    person(given = "Moritz",
+           family = "Hartig",
+           role = c("cre"),
+           email = "moritz.hartig@icloud.com")
+Description: This package is just a first try of creating R-packages and can calculate the Multidimensional Poverty Index.
+License:friends
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
